@@ -7,15 +7,12 @@ superuser: true
 status:
   icon: ☕️
 social:
-  - icon: envelope
+  - icon: linkedin
     icon_pack: fas
-    link: about/#contact
-  - icon: twitter
+    link: https://www.linkedin.com/in/chiren-shah
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/chirenshah
 ---
 I am Chiren Shah
 
