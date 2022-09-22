@@ -13,6 +13,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/chirenshah
+organizations:
+  - name: Arizona state university
+    url: https://www.asu.edu/
 ---
 I am Chiren Shah
 
